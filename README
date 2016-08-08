@@ -1,0 +1,7 @@
+INSTRUCTIONS TO RUN JonWojcik_CardGame.js
+
+Install Node.JS version 4.4.7
+Add the Node.JS propmts into $PATH
+In The Command Line Enter: node /path/to/JonWojcik_CardGame.js
+
+Additional Notes and Inormation Included in the 'Help' section of the program.
